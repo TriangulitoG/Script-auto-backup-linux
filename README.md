@@ -1,5 +1,10 @@
-# Scrpit-auto-backup-ubuntu
-Scrpit auto backup ubuntu
+# Script-auto-backup-ubuntu
+Script auto backup ubuntu
+
+# Que hace?
+
+Este script en bash crea una copia de seguridad de una carpeta o directorio especificado y la comprime en un archivo ZIP. Luego, se carga la copia de seguridad comprimida en un servidor FTP y se eliminan las copias de seguridad antiguas de la ubicación local y del servidor FTP. Además, el script está configurado para ejecutarse automáticamente todas las noches a las 00:00 y al inicio de la máquina. El script también envía notificaciones a un webhook de Discord si todo sale bien o si ocurre un error durante la copia de seguridad. Las variables de configuración en la parte superior del script se pueden ajustar para adaptarse a diferentes ubicaciones de carpeta o directorio, servidores FTP y webhooks de Discord.
+
 
 # Instalacion
 ```text
