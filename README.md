@@ -8,7 +8,7 @@ Este script en bash crea una copia de seguridad de una carpeta o directorio espe
 
 # Instalacion
 ```text
-git clone https://github.com/TriangulitoG/Discord-counter-voice-channel.git
+git clone https://github.com/TriangulitoG/Script-auto-backup-linux.git
 ```
 
 # Para que el script se ejecute cuando la maquina se enciende y diariamente a las 0 0
