@@ -6,7 +6,7 @@ Scrpit auto backup ubuntu
 git clone https://github.com/TriangulitoG/Discord-counter-voice-channel.git
 ```
 
-Para que el script se ejecute cuando la maquina se enciende sigue los siguientes pasos
+# Para que el script se ejecute cuando la maquina se enciende y diariamente a las 0 0
 
 ```text
 chmod +x backup_script.sh
